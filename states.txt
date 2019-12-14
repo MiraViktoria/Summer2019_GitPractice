@@ -7,3 +7,5 @@ Colorado.
 Connecticut.
 Delaware.
 Maryland.
+Arizona
+Kanzas
